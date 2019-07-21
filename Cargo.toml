@@ -1,5 +1,5 @@
 [package]
-name = "rest-api"
+name = "rest-nickel-api"
 version = "0.1.0"
 authors = ["emre.kul <emre.kul@trendyol.com>"]
 edition = "2018"

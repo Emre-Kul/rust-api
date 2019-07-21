@@ -12,4 +12,4 @@ RUN cargo install --path .
 
 EXPOSE 6767
 
-CMD ["rest-api"]
+CMD ["rest-nickel-api"]
